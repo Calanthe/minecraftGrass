@@ -1,0 +1,8 @@
+Rotatable Minecraft Grass block made with javascript, HTML5 and CSS 3d transforms (without any images).
+
+External libraries used:
+http://www.modernizr.com/
+http://yepnopejs.com/
+https://github.com/dirkweber/traqball.js
+
+Inspiration: http://www.eleqtriq.com/2010/11/Natural-Object-Rotation-with-CSS3-3D & http://forgequestrpg.com/forums/index.php?topic=24.0
